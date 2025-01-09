@@ -1,0 +1,6 @@
+str2: .string "testString"
+.extern str1
+str3: .string "t8e8s8t"
+.extern str4
+.entry str3
+mov ***,r0

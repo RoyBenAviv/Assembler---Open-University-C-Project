@@ -1,0 +1,14 @@
+mov #4, W
+.extern L5
+;
+
+hello
+
+.string "Agadududu" 
+
+LOOP: .data 1,2,3
+;
+END: stop
+W: inc L5
+
+

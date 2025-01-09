@@ -1,0 +1,6 @@
+.data r3
+r4: inc #r1
+stop r3
+;
+
+

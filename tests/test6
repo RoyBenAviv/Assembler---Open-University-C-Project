@@ -1,0 +1,11 @@
+.string "s42"
+m22: .string "Made by Roy and Idan"
+arr1: .data 1
+arr2: .data 1,2
+arr3: .data 1,2,3
+arr4: .data 1,2,3,4
+arr5: .data 1,2,3,4,5
+arr6: .data 1,2,3,4,5,6
+arr7: .data 1,2,3,4,5,6,7
+arr8: .data 1,2,3,4,5,6,7,8
+arr9: .data 1,2,3,4,5,6,7,8,9

@@ -1,0 +1,11 @@
+hello roy
+
+macr mov
+start
+end
+endmacr
+L3: .data -100
+
+
+
+

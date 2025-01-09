@@ -1,0 +1,9 @@
+macr macro1
+aaa
+bbb
+endmacr
+ccc .extern
+.data "string"
+
+LOOP: mov ***,W
+macro2

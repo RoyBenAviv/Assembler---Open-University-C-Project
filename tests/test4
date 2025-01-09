@@ -1,0 +1,7 @@
+macr macro2
+hello
+world
+endmacr
+.extern W
+LOOP: mov r3,W
+macro2
